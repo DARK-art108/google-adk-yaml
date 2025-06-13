@@ -2,10 +2,6 @@
 
 This repository contains the Kubernetes configuration for deploying the ADK (AI Development Kit) Agent in a production-ready, scalable architecture.
 
-## Architecture Overview
-
-![Architecture Diagram](adk-complex.png)
-
 The architecture consists of multiple interconnected components designed for scalability, reliability, and security.
 
 ## Components
